@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="" />
+    <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Challanges/Challenge List Comprehension.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WiFxxzAf0uP3TMTJpOXyq6bYrD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,7 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Challenge Print Function">
+  <component name="RunManager" selected="Python.Challenge List Comprehension">
     <configuration name="Challenge Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Challenge If-Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge List Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Efran\PycharmProjects\Hacker Rank Practice\Python Challanges\Challenge If-Else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Challenge List Comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Challenge List Comprehension" />
         <item itemvalue="Python.Challenge Print Function" />
         <item itemvalue="Python.Challenge Write a Function" />
         <item itemvalue="Python.Challenge Loops" />
         <item itemvalue="Python.Challenge Division" />
-        <item itemvalue="Python.Challenge If-Else" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +231,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -266,30 +272,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="397" width="382" height="246" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579920814692" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1579919428354">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1580147262449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579919428354" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1579919428354">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580147262449" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1580147262448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579919428354" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1579919428354">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580147262448" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1580147262446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579919428354" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1579919428354">
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580147262446" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1580147262448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579919428354" />
-    <state x="922" y="163" key="SettingsEditor" timestamp="1579920013525">
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580147262448" />
+    <state x="922" y="163" key="SettingsEditor" timestamp="1580147118099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579920013525" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579920850597">
+    <state x="922" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580147118099" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580147222918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579920850597" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580147222918" />
     <state x="1136" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579919974648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,10 +304,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1090" y="173" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579627576286" />
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579920682480">
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580147268637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579920682480" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580147268637" />
     <state x="718" y="312" key="git4idea.merge.GitMergeDialog" timestamp="1579920764685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

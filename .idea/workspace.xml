@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Challanges/Find the Runner-Up Score!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Challanges/Challenge List Comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Challanges/Challenge List Comprehension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Challenge List Comprehension">
-    <configuration name="Challenge Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hacker Rank Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Challanges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Challenge Division.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Find the Runner-Up Score!">
     <configuration name="Challenge List Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Find the Runner-Up Score!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hacker Rank Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Challanges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Find the Runner-Up Score!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find the Runner-Up Score!" />
         <item itemvalue="Python.Challenge List Comprehension" />
         <item itemvalue="Python.Challenge Print Function" />
         <item itemvalue="Python.Challenge Write a Function" />
         <item itemvalue="Python.Challenge Loops" />
-        <item itemvalue="Python.Challenge Division" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580148460312</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <created>1580319993618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580319993618</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,10 +278,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1249" y="236" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579919924541" />
-    <state x="1094" y="118" key="CommitChangelistDialog2" timestamp="1580148458407">
+    <state x="1094" y="118" key="CommitChangelistDialog2" timestamp="1580319990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580148458407" />
+    <state x="1094" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580319990739" />
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1579920395717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -287,30 +294,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="397" width="382" height="246" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579920814692" />
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1580319872272">
+    <state width="936" height="279" key="GridCell.Tab.0.bottom" timestamp="1580321425142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580319872272" />
-    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1580319872270">
+    <state width="936" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580321425142" />
+    <state width="936" height="279" key="GridCell.Tab.0.center" timestamp="1580321425142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580319872270" />
-    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1580319872269">
+    <state width="936" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580321425142" />
+    <state width="936" height="279" key="GridCell.Tab.0.left" timestamp="1580321425141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580319872269" />
-    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1580319872271">
+    <state width="936" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580321425141" />
+    <state width="936" height="279" key="GridCell.Tab.0.right" timestamp="1580321425142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580319872271" />
+    <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580321425142" />
+    <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1580320862240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580320862240" />
+    <state width="936" height="347" key="GridCell.Tab.1.center" timestamp="1580320862240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580320862240" />
+    <state width="936" height="347" key="GridCell.Tab.1.left" timestamp="1580320862240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580320862240" />
+    <state width="936" height="347" key="GridCell.Tab.1.right" timestamp="1580320862240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580320862240" />
     <state x="922" y="163" key="SettingsEditor" timestamp="1580147118099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580147118099" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580148462709">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580319997411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580148462709" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580319997411" />
     <state x="1136" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579919974648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

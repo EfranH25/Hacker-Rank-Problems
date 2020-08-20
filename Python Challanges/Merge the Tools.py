@@ -24,5 +24,5 @@ def clean(string):
     return new_string
 
 if __name__ == '__main__':
-    string, k = 'AABCAAADA', 3
+    string, k = input(), int(input())
     merge_the_tools(string, k)

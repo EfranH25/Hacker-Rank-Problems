@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Challanges/Word Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Challanges/Classes Dealing with Complex Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Challanges/Company Logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Challanges/No Idea Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Challanges/Reduce Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Challanges/ginortS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +40,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Word Order">
-    <configuration name="Merge the Tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Reduce Function">
+    <configuration name="Classes Dealing with Complex Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Merge the Tools.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Classes Dealing with Complex Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The Minion Game Correct (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Company Logo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/The Minion Game Correct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Company Logo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The Minion Game Correct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No Idea Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\Classes\Hacker Rank Practice\Python Challanges\The Minion Game Correct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/No Idea Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The Minion Game First Attempt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Reduce Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\Classes\Hacker Rank Practice\Python Challanges\The Minion Game First Attempt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Reduce Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Word Order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ginortS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hacker Rank Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/Word Order.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Challanges/ginortS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Word Order" />
-        <item itemvalue="Python.Merge the Tools" />
-        <item itemvalue="Python.The Minion Game Correct (1)" />
-        <item itemvalue="Python.The Minion Game Correct" />
-        <item itemvalue="Python.The Minion Game First Attempt" />
+        <item itemvalue="Python.Reduce Function" />
+        <item itemvalue="Python.Company Logo" />
+        <item itemvalue="Python.ginortS" />
+        <item itemvalue="Python.Classes Dealing with Complex Numbers" />
+        <item itemvalue="Python.No Idea Game" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597901271008</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1597902790197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597902790197</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,29 +264,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1597901270629">
+    <state x="1206" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597965945589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597901270629" />
-    <state width="936" height="278" key="GridCell.Tab.0.bottom" timestamp="1597902657343">
+    <state x="1206" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597965945589" />
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1597902789813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597902657343" />
-    <state width="936" height="278" key="GridCell.Tab.0.center" timestamp="1597902657343">
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597902789813" />
+    <state width="936" height="277" key="GridCell.Tab.0.bottom" timestamp="1597967714262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597902657343" />
-    <state width="936" height="278" key="GridCell.Tab.0.left" timestamp="1597902657343">
+    <state width="936" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597967714262" />
+    <state width="936" height="277" key="GridCell.Tab.0.center" timestamp="1597967714261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597902657343" />
-    <state width="936" height="278" key="GridCell.Tab.0.right" timestamp="1597902657343">
+    <state width="936" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597967714261" />
+    <state width="936" height="277" key="GridCell.Tab.0.left" timestamp="1597967714261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597902657343" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597901272949">
+    <state width="936" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597967714261" />
+    <state width="936" height="277" key="GridCell.Tab.0.right" timestamp="1597967714261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597901272949" />
+    <state width="936" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597967714261" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597962310789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597962310789" />
   </component>
 </project>

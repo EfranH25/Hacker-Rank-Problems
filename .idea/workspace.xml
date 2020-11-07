@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="" />
+    <list default="true" id="34ae7cc7-e1fc-4930-9eb3-3859a2644f1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Hacker Rank Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hacker Rank Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,6 +316,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="936" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598039688083" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604731880693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604731880693" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599625299612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
